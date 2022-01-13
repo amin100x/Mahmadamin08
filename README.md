@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmadamin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmadamin08&label=Profile%20views&color=0e75b6&style=flat" alt="mahmadamin08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mahmadamin88" target="blank"><img src="https://img.shields.io/twitter/follow/mahmadamin88?logo=twitter&style=for-the-badge" alt="mahmadamin88" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, ReactJs,Data Structures and Algorithmsorithm**
 
@@ -26,4 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmadamin08&show_icons=true&locale=en&layout=compact" alt="mahmadamin08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmadamin08&show_icons=true&locale=en" alt="mahmadamin08" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmadamin08&label=Profile%20views&color=0e75b6&style=flat" alt="mahmadamin08" /> </p>
+
+<p align="left"> <a href="https://twitter.com/mahmadamin88" target="blank"><img src="https://img.shields.io/twitter/follow/mahmadamin88?logo=twitter&style=for-the-badge" alt="mahmadamin88" /></a> </p>
 
