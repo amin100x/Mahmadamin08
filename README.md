@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmadamin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
+<h1>🙋‍♂️ About Me </h1>
 
 - 🌱 I’m currently learning **Javascript, ReactJs,Data Structures and Algorithmsorithm**
 
