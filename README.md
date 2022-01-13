@@ -25,6 +25,7 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmadamin08&show_icons=true&locale=en&layout=compact" alt="mahmadamin08" /></p>
 <br>
+<br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmadamin08&show_icons=true&locale=en" alt="mahmadamin08" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmadamin08&label=Profile%20views&color=0e75b6&style=flat" alt="mahmadamin08" /> </p>
