@@ -4,7 +4,7 @@
 <h1>🙋‍♂️ About Me </h1>
 
 - 👨‍⚖️ I`m a Self-motivated learner with strong organisation, time management & communication skills.
-- 🌱 I’m currently learning **Javascript, ReactJs,Data Structures and Algorithmsorithm**
+- 🌱 I’m currently learning **Javascript, ReactJs,Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://mahmadamin.w3spaces.com/](https://mahmadamin.w3spaces.com/)
 
