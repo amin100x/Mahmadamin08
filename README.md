@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahmadamin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <h1>🙋‍♂️ About Me </h1>
 
 - 👨‍⚖️ I`m a Self-motivated learner with strong organisation, time management & communication skills.
-- 🌱 I’m currently learning **Javascript, ReactJs,Data Structures and Algorithms**
+- 🌱 I’m currently learning **NodeJs, ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://mahmadamin.w3spaces.com/](https://mahmadamin.w3spaces.com/)
 
