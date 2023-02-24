@@ -6,7 +6,7 @@
 - 👨‍⚖️ I`m a Self-motivated learner with strong organisation, time management & communication skills.
 - 🌱 I’m currently learning **NodeJs, ReactJs**
 
-- 👨‍💻 All of my projects are available at [[https://mahmadamin.w3spaces.com/](https://mahmadamin.netlify.app/)]([https://mahmadamin.w3spaces.com/](https://mahmadamin.netlify.app/))
+- 👨‍💻 All of my projects are available at (https://mahmadamin.netlify.app/)
 
 - 📫 How to reach me **aminlodhiya@gmail.com**
 
