@@ -6,10 +6,11 @@
 - 👨‍⚖️ I`m a Self-motivated learner with strong organisation, time management & communication skills.
 - 🌱 I’m currently learning **NodeJs, ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://mahmadamin.w3spaces.com/](https://mahmadamin.w3spaces.com/)
+- 👨‍💻 All of my projects are available at [[https://mahmadamin.w3spaces.com/](https://mahmadamin.netlify.app/)]([https://mahmadamin.w3spaces.com/](https://mahmadamin.netlify.app/))
 
 - 📫 How to reach me **aminlodhiya@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmadamin08&label=Profile%20views&color=0e75b6&style=flat" alt="mahmadamin08" /> </p>
 <h2 align="left">📍 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/mahmadamin88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmadamin88" height="30" width="40" /></a>
@@ -27,7 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmadamin08&show_icons=true&locale=en" alt="mahmadamin08" /></p>
 <br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmadamin08&label=Profile%20views&color=0e75b6&style=flat" alt="mahmadamin08" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mahmadamin88" target="blank"><img src="https://img.shields.io/twitter/follow/mahmadamin88?logo=twitter&style=for-the-badge" alt="mahmadamin88" /></a> </p>
 
