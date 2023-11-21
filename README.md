@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmadamin</h1>
+<h1 align="center"> Hey! Nice to see you.</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <h1>🙋‍♂️ About Me </h1>
